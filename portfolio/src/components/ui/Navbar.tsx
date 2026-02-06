@@ -1,4 +1,4 @@
-    import React, { useState, type JSX } from 'react'
+    import  { useState, type JSX } from 'react'
     import { Button } from '@/components/ui/button';
     import { Menu, X } from "lucide-react";
     function Navbar(): JSX.Element {

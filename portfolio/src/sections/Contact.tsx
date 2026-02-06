@@ -2,7 +2,7 @@
 
 import React from "react"
 
-import { Mail, Linkedin, Github, MessageSquare } from 'lucide-react'
+import { Mail, Linkedin, Github } from 'lucide-react'
 import { useState } from 'react'
 
 export default function Contact() {
